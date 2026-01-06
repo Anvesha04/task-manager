@@ -20,4 +20,4 @@ A clean, modern, and highly responsive Task Management interface designed to str
 ```text
 ├── index.html       # Main HTML structure
 ├── style.css        # Custom styling and layout
-└── script.js        # Logic for interactivity (if applicable)
+└── script.js        # Logic for interactivity 
