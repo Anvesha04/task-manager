@@ -14,7 +14,7 @@ A clean, modern, and highly responsive Task Management interface designed to str
 ## 🛠️ Tech Stack
 * **HTML5:** Used for semantic and accessible web structure.
 * **CSS3:** Custom styling featuring Flexbox and CSS Grid for layout management.
-* **JavaScript (Optional):** Basic interactivity and DOM manipulation.
+* **JavaScript :** Basic interactivity and DOM manipulation.
 
 ## 📂 Project Structure
 ```text
